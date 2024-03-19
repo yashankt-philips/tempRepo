@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRestAPI", "StudentRestAPI\StudentRestAPI.csproj", "{9463F5CB-2747-4B7F-96C4-160EC89B06CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9463F5CB-2747-4B7F-96C4-160EC89B06CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9463F5CB-2747-4B7F-96C4-160EC89B06CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9463F5CB-2747-4B7F-96C4-160EC89B06CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9463F5CB-2747-4B7F-96C4-160EC89B06CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1BA9BD-D003-49DF-A4C0-B73F694D001C}
+	EndGlobalSection
+EndGlobal
